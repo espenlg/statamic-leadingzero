@@ -1,0 +1,7 @@
+name: LeadingZero
+version: "1.0.0"
+description: Statamic modifier to add leading zeros to the output
+url: https://github.com/espenlg/statamic-leadingzero
+developer: Espen Grimsgaard
+developer_url: 
+commercial: false
